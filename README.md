@@ -1,6 +1,6 @@
 # picture  
 
-<img src="https://github.com/alextangchao/lzq/blob/master/test.jpg?raw=True" alt="show">  
+<img src="https://github.com/alextangchao/lzq/blob/master/test.jpg?raw=true" alt="show">  
 
 ## Welcome to GitHub Pages
 
