@@ -1,6 +1,6 @@
 # picture  
 
-![show](https://github.com/alextangchao/lzq/blob/master/test.jpg)  
+![show](https://github.com/alextangchao/lzq/blob/master/test.jpg?raw=true)  
 
 ## Welcome to GitHub Pages
 
