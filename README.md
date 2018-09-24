@@ -1,3 +1,7 @@
+# picture  
+
+![show](https://github.com/alextangchao/lzq/blob/master/test.jpg)  
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/alextangchao/lzq/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
